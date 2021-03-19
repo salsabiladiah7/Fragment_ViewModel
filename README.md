@@ -14,12 +14,17 @@
 
 # HELLO PETS
 
+![ezgif-7-8492b186e2b5](https://user-images.githubusercontent.com/60590053/111821040-cb69ec80-8914-11eb-9667-5f6fd995510a.gif)
+
 - ## Icon Hello Pets
-![Screenshot_2021-03-20-00-08-54-41](https://user-images.githubusercontent.com/60590053/111818708-12a2ae00-8912-11eb-95dc-e65fa31549ed.jpg)
+![Screenshot_2021-03-20-00-08-54-41](https://user-images.githubusercontent.com/60590053/111820472-218a6000-8914-11eb-8109-ff89f1d41f07.jpg)
+
 - ## Splash Screen
 ![Screenshot_2021-03-19-22-35-27-59_ca3fb834bb70981bbe4e267fc6b31308](https://user-images.githubusercontent.com/60590053/111818652-ff8fde00-8911-11eb-949e-e4f0c33c9a3b.jpg)
+
 - ## Slide Screen
 ![PicsArt_03-19-10 52 32](https://user-images.githubusercontent.com/60590053/111818670-04549200-8912-11eb-9dd7-db1469c57e03.jpg)
+
 - ## View Pager
 ![Screenshot_2021-03-19-22-34-01-20](https://user-images.githubusercontent.com/60590053/111819370-d3c12800-8912-11eb-9c46-c70691888286.jpg)
 ![Screenshot_2021-03-19-22-33-27-45](https://user-images.githubusercontent.com/60590053/111819381-d6238200-8912-11eb-972c-7eff24ae44b4.jpg)
