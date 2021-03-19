@@ -26,6 +26,6 @@
 ![PicsArt_03-19-10 52 32](https://user-images.githubusercontent.com/60590053/111818670-04549200-8912-11eb-9dd7-db1469c57e03.jpg)
 
 - ## View Pager
-![Screenshot_2021-03-19-22-34-01-20](https://user-images.githubusercontent.com/60590053/111819370-d3c12800-8912-11eb-9c46-c70691888286.jpg)
 ![Screenshot_2021-03-19-22-33-27-45](https://user-images.githubusercontent.com/60590053/111819381-d6238200-8912-11eb-972c-7eff24ae44b4.jpg)
+![Screenshot_2021-03-19-22-34-01-20](https://user-images.githubusercontent.com/60590053/111819370-d3c12800-8912-11eb-9c46-c70691888286.jpg)
 
