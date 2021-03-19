@@ -12,9 +12,10 @@
         android:orientation="vertical">
 
         <ImageView
-            android:layout_width="@dimen/img_width_height"
-            android:layout_height="@dimen/img_width_height"
-            android:src="@drawable/user_avatar" />
+            android:layout_width="450dp"
+            android:layout_height="300dp"
+            android:layout_marginLeft="40dp"
+            android:src="@drawable/catlist" />
 
         <TextView
             android:layout_width="wrap_content"
