@@ -1,5 +1,9 @@
 # Fragment using ViewModel
 
+- ## View Pager
+- [x] Geser layar adalah transisi antara satu layar penuh ke layar yang lain dan sering digunakan di UI seperti wizard penyiapan atau slideshow.
+- [x] ViewPager adalah bagian dari AndroidX yang dapat otomatis menganimasikan geser layar.  [Read More...](https://developer.android.com/training/animation/screen-slide?hl=id).
+
 - ## View Model
 - [x] Objek yang akan selalu ada sampai komponen seperti activity di destroy. View Model berguna untuk menyimpan data sementara agar tidak hilang. 
 
@@ -10,10 +14,13 @@
 
 # HELLO PETS
 
-- Icon Hello Pets
+- ## Icon Hello Pets
 ![Screenshot_2021-03-20-00-08-54-41](https://user-images.githubusercontent.com/60590053/111818708-12a2ae00-8912-11eb-95dc-e65fa31549ed.jpg)
-- Splash Screen
+- ## Splash Screen
 ![Screenshot_2021-03-19-22-35-27-59_ca3fb834bb70981bbe4e267fc6b31308](https://user-images.githubusercontent.com/60590053/111818652-ff8fde00-8911-11eb-949e-e4f0c33c9a3b.jpg)
-- Slide Screen
+- ## Slide Screen
 ![PicsArt_03-19-10 52 32](https://user-images.githubusercontent.com/60590053/111818670-04549200-8912-11eb-9dd7-db1469c57e03.jpg)
+- ## View Pager
+![Screenshot_2021-03-19-22-34-01-20](https://user-images.githubusercontent.com/60590053/111819370-d3c12800-8912-11eb-9c46-c70691888286.jpg)
+![Screenshot_2021-03-19-22-33-27-45](https://user-images.githubusercontent.com/60590053/111819381-d6238200-8912-11eb-972c-7eff24ae44b4.jpg)
 
